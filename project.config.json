@@ -1,0 +1,11 @@
+{
+	"miniprogramRoot": "./miniprogram",
+	"pluginRoot": "./plugin",
+	"compileType": "plugin",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxe41a73ba4135321a",
+	"projectname": "wxa-plugin-calendar",
+	"condition": {}
+}
